@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @K-Nnadi
-- 👀 I’m interested in learning different programming languages and machine learning
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Kenneth Nnadi
+- 👀 I’m currently in my 3rd year of being a Softtware Engineer at a Health-Tech company
+- 🌱 I’m building a football platform to allow users to track the matches they have attended
 - 📫 You can reach me at my email, kenneth_nnadi@aol.co.uk
 
 <!---
